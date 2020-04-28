@@ -15,7 +15,7 @@ own dice but we could not agree upon a fair-for-all method of doing that.
 
 At its inception this was intented to be a dice rolling bot with a focus on 10 sided dice that could assist us in our
 complicated rolls for our Crossover game between Vampires and Mages, but found extra uses as a repository of on-demand text
-and systems for the various supernatural powers these creatures hold or other game mechanics.
+and systems.
 
 Currently it contains a dice rolling system which accounts for 1s, information on most of the vampiric disciplines and magical spheres, paths of enlightenment,
 information on the blood bond and the dreaded diablerie and a bit of what i consider to be..humour.
@@ -24,7 +24,6 @@ outside them, Archspheres as well as information and rules on spellcasting and p
 
 It does not contain merits and flaws from any game, Thaumaturgy,Necromancy or any sort of Sorcery powers or rituals, Nature/Demeanors, Avatar essences
 or resonance rules and does not account for double successes from Specialties, you'll have to do that yourself for now.
-
 
 
 ## Dependencies
@@ -38,15 +37,17 @@ or resonance rules and does not account for double successes from Specialties, y
 * Create the bot(https://realpython.com/how-to-make-a-discord-bot-python/)
 * Add your bot's token inside Bot.py using the editor of your choice
 * Download discord.py from pypi (https://pypi.org/project/discord.py/)
-* run CMD as administrator
+* On Windows run CMD as administrator
+* On Linux simply open a terminal.
 * cd in the folder that you downloaded discord.py and then:
-* py -m pip install -U discord.py
+* On Windows : py -m pip install -U discord.py 
+* On Linux : python3 -m pip install -U discord.py
 * After setup is complete run Bot.py
 
 ## Commands
 After the bot is online, simply type 'bot commands' into chat and it will reply with a list of available commands and an example for each one.
 
-In addition you can PM the any command to the bot and it will directly PM its response to said command back to you. Useful in case you want a command to be hidden.
+In addition you can PM any command to the bot and it will directly PM its response back to you. Useful in case you want a command to be hidden.
 
 To roll dice type 'roll dice' followed by the number of dice,the difficulty for the roll. For example let us suppose that you want to roll 15 dice versus a difficulty of 8. Type into the chat 'roll dice  15,8'.
 
