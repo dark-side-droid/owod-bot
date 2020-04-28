@@ -17,12 +17,12 @@ At its inception this was intented to be a dice rolling bot with a focus on 10 s
 complicated rolls for our Crossover game between Vampires and Mages, but found extra uses as a repository of on-demand text
 and systems.
 
-Currently it contains a dice rolling system which accounts for 1s, information on most of the vampiric disciplines and magical spheres, paths of enlightenment,
+Currently it contains: dice rolling system which accounts for 1s, information on most of the vampiric disciplines and magical spheres, paths of enlightenment,
 information on the blood bond and the dreaded diablerie and a bit of what i consider to be..humour.
 Soon it will be complete, containing Elder disciplines, bloodlines and bloodline-specific powers, the Roads of Dark Ages:Vampire and the few paths of enlightenment
 outside them, Archspheres as well as information and rules on spellcasting and paradox.
 
-It does not contain merits and flaws from any game, Thaumaturgy,Necromancy or any sort of Sorcery powers or rituals, Nature/Demeanors, Avatar essences
+It does not contain merits and flaws from any game, Thaumaturgy or Necromancy nor any sort of Sorcery powers or rituals, Nature/Demeanors, Avatar essences
 or resonance rules and does not account for double successes from Specialties, you'll have to do that yourself for now.
 
 
