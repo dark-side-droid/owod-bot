@@ -25,6 +25,8 @@ outside them, Archspheres as well as information and rules on spellcasting and p
 It does not contain merits and flaws from any game, Thaumaturgy or Necromancy nor any sort of Sorcery powers or rituals, Nature/Demeanors, Avatar essences
 or resonance rules and does not account for double successes from Specialties, you'll have to do that yourself for now.
 
+My bot is named Ravanna, i found it poetic.
+
 
 ## Dependencies
 * Python 3
