@@ -34,7 +34,7 @@ or resonance rules and does not account for double successes from Specialties, y
 
 ## How to Setup
 * Install python3 if you dont already have it
-* Create the bot(https://realpython.com/how-to-make-a-discord-bot-python/)
+* Create the bot(https://realpython.com/how-to-make-a-discord-bot-python/), follow the guide until you add it to the guild.
 * Add your bot's token inside Bot.py using the editor of your choice
 * Download discord.py from pypi (https://pypi.org/project/discord.py/)
 * On Windows run CMD as administrator
