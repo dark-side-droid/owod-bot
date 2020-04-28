@@ -43,6 +43,7 @@ or resonance rules and does not account for double successes from Specialties, y
 * On Windows : py -m pip install -U discord.py 
 * On Linux : python3 -m pip install -U discord.py
 * After setup is complete run Bot.py
+* As long as the script is running, the bot is online.
 
 ## Commands
 After the bot is online, simply type 'bot commands' into chat and it will reply with a list of available commands and an example for each one. All commands are typed without the ''.
