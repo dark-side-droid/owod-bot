@@ -45,7 +45,7 @@ or resonance rules and does not account for double successes from Specialties, y
 * After setup is complete run Bot.py
 
 ## Commands
-After the bot is online, simply type 'bot commands' into chat and it will reply with a list of available commands and an example for each one.
+After the bot is online, simply type 'bot commands' into chat and it will reply with a list of available commands and an example for each one. All commands are typed without the ''.
 
 In addition you can PM any command to the bot and it will directly PM its response back to you. Useful in case you want a command to be hidden.
 
