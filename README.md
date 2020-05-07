@@ -42,7 +42,7 @@ My bot is named Ravanna, i found it poetic.
 * On Windows run CMD as administrator
 * On Linux simply open a terminal.
 * cd in the folder that you downloaded discord.py and then:
-* On Windows : py -m pip install -U discord.py 
+* On Windows : pip install -U discord.py 
 * On Linux : python3 -m pip install -U discord.py
 * After setup is complete run Bot.py
 * As long as the script is running, the bot is online.
