@@ -37,8 +37,7 @@ My bot is named Ravanna, i found it poetic.
 ## How to Setup
 * Install python3 if you dont already have it
 * Create the bot(https://realpython.com/how-to-make-a-discord-bot-python/), follow the guide until you add it to the guild.
-* Add your bot's token inside Bot.py using the editor of your choice
-* Download discord.py from pypi (https://pypi.org/project/discord.py/)
+* Download discord.py from pypi (https://pypi.org/project/discord.py/) or simply type 'pip install discord' into a terminal if you are on linux.
 * On Windows run CMD as administrator
 * On Linux simply open a terminal.
 * cd in the folder that you downloaded discord.py and then:
@@ -48,7 +47,7 @@ My bot is named Ravanna, i found it poetic.
 * As long as the script is running, the bot is online.
 
 ## Commands
-After the bot is online, simply type 'bot commands' into chat and it will reply with a list of available commands and an example for each one. All commands are typed without the ''.
+After the bot is online, simply type 'bot commands' into chat and it will reply with a list of available commands and an example for each one. All commands are typed without the ' '.
 
 In addition you can PM any command to the bot and it will directly PM its response back to you. Useful in case you want a command to be hidden.
 
