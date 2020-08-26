@@ -7,7 +7,7 @@ from Roads import *
 from v20_misc import *
 
 
-TOKEN = "NjkyNzkxODIwMTY5NzczMTI2.XnzqqQ.O1n9rizsv5LYDg7pFcq9Raf5bqU"
+TOKEN = "YOUR TOKEN GOES HERE"
 client = discord.Client()
 
 
